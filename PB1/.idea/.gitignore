@@ -1,0 +1,16 @@
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Ignore build and dependency folders
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Include source files
+!src/
+!pom.xml
